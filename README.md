@@ -3,7 +3,8 @@
 Developed a Learning Management System (LMS) and using Tutor LMS, WooCommerce Plugin and WordPress.
 
 #Home-page
-![Home-page](https://github.com/Ayush-Gupta5/EduCourseHub-LMS-WordPress/assets/143918681/80158f74-a2d1-41e2-b4bd-9a4dfd78217e)
+![Home-page](https://github.com/Ayush-Gupta5/EduCourseHub-LMS-WordPress/assets/143918681/53d31ba6-2059-4bb0-8b0f-c18c5a402d87)
+
 
 
 #Courses-page
