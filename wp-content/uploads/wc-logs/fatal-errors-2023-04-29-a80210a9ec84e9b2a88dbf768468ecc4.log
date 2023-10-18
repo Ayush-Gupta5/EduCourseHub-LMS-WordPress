@@ -1,0 +1,2 @@
+2023-04-29T17:05:28+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 65536 bytes) in C:\xampp\htdocs\Educourse_hub\wp-content\plugins\woocommerce\src\Internal\Admin\ActivityPanels.php on line 48
+
