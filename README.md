@@ -1,6 +1,8 @@
 # EduCourseHub-LMS-WordPress
 
-Developed a Learning Management System (LMS) and using Tutor LMS, WooCommerce Plugin and WordPress.
+I developed a responsive WordPress-based LMS akin to Udemy, offering a broad spectrum of online courses spanning programming, arts, finance, and more, while also enabling user registration as instructors for course creation and sharing.<br><br>
+Language & Plugin: WordPress, Tutor LMS Plugin, WooCommerce.
+
 
 #Home-page
 ![Home-page](https://github.com/Ayush-Gupta5/EduCourseHub-LMS-WordPress/assets/143918681/53d31ba6-2059-4bb0-8b0f-c18c5a402d87)
